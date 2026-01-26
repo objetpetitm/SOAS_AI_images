@@ -6,66 +6,66 @@ A collection of AI-generated images exploring future cityscapes and cultural the
 
 | | | |
 |---|---|---|
-| ![](images/240304_Kenya city future_bing_SWA_siku zijazo.jpeg) | ![](images/240726_Kenya city future_bing_ENG.jpg) | ![](images/240726_Kenya city_bing_ENG.jpg) |
-| ![](images/240726_Kenya mji ujao_bing_SWA.jpg) | ![](images/240726_Kenya mji wa siku zijazo_bing_SWA.jpg) | ![](images/240726_Kenya mji_bing_SWA.jpg) |
-| ![](images/240726_Kenya_bing_ENG.jpg) | ![](images/240728_Kenya mji wa kesho_bing_SWA.jpg) | ![](images/240802_Kenya city future_bing_ENG.jpg) |
-| ![](images/240802_Kenya city_bing_ENG.jpg) | ![](images/240802_Kenya city_bing_SWA.jpg) | ![](images/240802_Kenya mji wa kesho_bing_SWA.jpg) |
-| ![](images/240802_Kenya_bing_ENG.jpg) | ![](images/240805_Kenya city future_bing_ENG.jpg) | ![](images/240805_Kenya city_bing_ENG.jpg) |
-| ![](images/240805_Kenya city_bing_SWA.jpg) | ![](images/240805_Kenya mji wa kesho_bing_SWA.jpg) | ![](images/240805_Kenya mji wa siku zijazo_bing_SWA.jpg) |
-| ![](images/240805_Kenya_bing_ENG.jpg) | ![](images/240816_Kenya city future_bing_ENG.jpg) | ![](images/240816_Kenya city_bing_ENG.jpg) |
-| ![](images/240816_Kenya city_bing_SWA.jpg) | ![](images/240816_Kenya mji wa kesho_bing_SWA.jpg) | ![](images/240816_Kenya mji wa siku zijazo_bing_SWA.jpg) |
-| ![](images/240816_Kenya_bing_ENG.jpg) | ![](images/240823_Kenya city future_bing_ENG.jpeg) | ![](images/240823_Kenya city_bing_ENG.jpeg) |
-| ![](images/240823_Kenya mji wa kesho_bing_SWA.jpeg) | ![](images/240823_Kenya mji wa siku zijazo_bing_SWA.jpeg) | ![](images/240823_Kenya mji_bing_SWA.jpeg) |
-| ![](images/240823_Kenya_bing_ENG.jpeg) | ![](images/240831_Kenya city future_bing_ENG.jpeg) | ![](images/240831_Kenya city_bing_ENG.jpeg) |
-| ![](images/240831_Kenya city_bing_SWA.jpeg) | ![](images/240831_Kenya mji wa kesho_bing_SWA.jpeg) | ![](images/240831_Kenya mji wa siku zijazo_bing_SWA.jpeg) |
-| ![](images/240831_Kenya_bing_ENG.jpeg) | ![](images/240906_Kenya city future_bing_ENG.jpeg) | ![](images/240906_Kenya city_bing_ENG.jpeg) |
-| ![](images/240906_Kenya city_bing_SWA.jpeg) | ![](images/240906_Kenya mji wa kesho_bing_SWA.jpeg) | ![](images/240906_Kenya mji wa siku zijazo_bing_SWA.jpeg) |
-| ![](images/240906_Kenya_bing_ENG.jpeg) | ![](images/240913_Kenya city future_bing_ENG.jpeg) | ![](images/240913_Kenya city_bing_ENG.jpeg) |
-| ![](images/240913_Kenya city_bing_SWA.jpeg) | ![](images/240913_Kenya mji wa kesho_bing_SWA.jpeg) | ![](images/240913_Kenya mji wa siku zijazo_bing_SWA.jpeg) |
-| ![](images/240913_Kenya_bing_ENG.jpeg) | ![](images/240923_Kenya City Future_bing_ENG.jpeg) | ![](images/240923_Kenya City Future_bing_SWA_wa kesho.jpeg) |
-| ![](images/240923_Kenya City Future_bing_Swa_siku zijazo.jpeg) | ![](images/240923_Kenya City_bing_ENG.jpeg) | ![](images/240923_Kenya City_bing_SWA.jpeg) |
-| ![](images/240923_Kenya_bing_ENG.jpeg) | ![](images/240927_Kenya City Future_bing_ENG.jpeg) | ![](images/240927_Kenya City Future_bing_SWA_wa kesho.jpeg) |
-| ![](images/240927_Kenya City_bing_ENG.jpeg) | ![](images/240927_Kenya City_bing_SWA.jpeg) | ![](images/240927_Kenya_bing_ENG.jpeg) |
-| ![](images/241004_Kenya city future_bing_ENG.jpeg) | ![](images/241004_Kenya city future_bing_SWA_wa kesho.jpeg) | ![](images/241004_Kenya city_bing_ENG.jpeg) |
-| ![](images/241004_Kenya city_bing_SWA.jpeg) | ![](images/241004_Kenya_bing_ENG.jpeg) | ![](images/241011_Kenya city future_bing_ENG.jpeg) |
-| ![](images/241011_Kenya city future_bing_SWA_siku zijazo.jpeg) | ![](images/241011_Kenya city future_bing_SWA_wa kesho.jpeg) | ![](images/241011_Kenya city_bing_ENG.jpeg) |
-| ![](images/241011_Kenya city_bing_SWA.jpeg) | ![](images/241011_Kenya_bing_ENG.jpeg) | ![](images/241021_Kenya city future_bing_ENG.jpeg) |
-| ![](images/241021_Kenya city future_bing_SWA_wa kesho.jpeg) | ![](images/241021_Kenya city future_bing_SWA_wa siku zijazo.jpeg) | ![](images/241021_Kenya city_bing_ENG.jpeg) |
-| ![](images/241021_Kenya city_bing_SWA.jpeg) | ![](images/241021_Kenya_bing_ENG.jpeg) | ![](images/241025_Kenya city future_bing_ENG.jpeg) |
-| ![](images/241025_Kenya city future_bing_SWA_wa kesho.jpeg) | ![](images/241025_Kenya city future_bing_SWA_wa kesho_Screenshot.png) | ![](images/241025_Kenya city future_bing_SWA_wa siku zijazo.jpeg) |
-| ![](images/241025_Kenya city_bing_ENG.jpeg) | ![](images/241025_Kenya city_bing_SWA.jpeg) | ![](images/241025_Kenya_bing_ENG.jpeg) |
-| ![](images/241027_Kenya City Future_bing_SWA_wa siku zijazo.jpeg) | ![](images/241101_Kenya city future_bing_ENG.jpeg) | ![](images/241101_Kenya city future_bing_SWA_siku zijazo.jpeg) |
-| ![](images/241101_Kenya city future_bing_SWA_wa kesho.jpeg) | ![](images/241101_Kenya city_bing ENG.jpeg) | ![](images/241101_Kenya city_bing_SWA.jpeg) |
+| ![](images/240304_Kenya%20city%20future_bing_SWA_siku%20zijazo.jpeg) | ![](images/240726_Kenya%20city%20future_bing_ENG.jpg) | ![](images/240726_Kenya%20city_bing_ENG.jpg) |
+| ![](images/240726_Kenya%20mji%20ujao_bing_SWA.jpg) | ![](images/240726_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpg) | ![](images/240726_Kenya%20mji_bing_SWA.jpg) |
+| ![](images/240726_Kenya_bing_ENG.jpg) | ![](images/240728_Kenya%20mji%20wa%20kesho_bing_SWA.jpg) | ![](images/240802_Kenya%20city%20future_bing_ENG.jpg) |
+| ![](images/240802_Kenya%20city_bing_ENG.jpg) | ![](images/240802_Kenya%20city_bing_SWA.jpg) | ![](images/240802_Kenya%20mji%20wa%20kesho_bing_SWA.jpg) |
+| ![](images/240802_Kenya_bing_ENG.jpg) | ![](images/240805_Kenya%20city%20future_bing_ENG.jpg) | ![](images/240805_Kenya%20city_bing_ENG.jpg) |
+| ![](images/240805_Kenya%20city_bing_SWA.jpg) | ![](images/240805_Kenya%20mji%20wa%20kesho_bing_SWA.jpg) | ![](images/240805_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpg) |
+| ![](images/240805_Kenya_bing_ENG.jpg) | ![](images/240816_Kenya%20city%20future_bing_ENG.jpg) | ![](images/240816_Kenya%20city_bing_ENG.jpg) |
+| ![](images/240816_Kenya%20city_bing_SWA.jpg) | ![](images/240816_Kenya%20mji%20wa%20kesho_bing_SWA.jpg) | ![](images/240816_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpg) |
+| ![](images/240816_Kenya_bing_ENG.jpg) | ![](images/240823_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/240823_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/240823_Kenya%20mji%20wa%20kesho_bing_SWA.jpeg) | ![](images/240823_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpeg) | ![](images/240823_Kenya%20mji_bing_SWA.jpeg) |
+| ![](images/240823_Kenya_bing_ENG.jpeg) | ![](images/240831_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/240831_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/240831_Kenya%20city_bing_SWA.jpeg) | ![](images/240831_Kenya%20mji%20wa%20kesho_bing_SWA.jpeg) | ![](images/240831_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpeg) |
+| ![](images/240831_Kenya_bing_ENG.jpeg) | ![](images/240906_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/240906_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/240906_Kenya%20city_bing_SWA.jpeg) | ![](images/240906_Kenya%20mji%20wa%20kesho_bing_SWA.jpeg) | ![](images/240906_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpeg) |
+| ![](images/240906_Kenya_bing_ENG.jpeg) | ![](images/240913_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/240913_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/240913_Kenya%20city_bing_SWA.jpeg) | ![](images/240913_Kenya%20mji%20wa%20kesho_bing_SWA.jpeg) | ![](images/240913_Kenya%20mji%20wa%20siku%20zijazo_bing_SWA.jpeg) |
+| ![](images/240913_Kenya_bing_ENG.jpeg) | ![](images/240923_Kenya%20City%20Future_bing_ENG.jpeg) | ![](images/240923_Kenya%20City%20Future_bing_SWA_wa%20kesho.jpeg) |
+| ![](images/240923_Kenya%20City%20Future_bing_Swa_siku%20zijazo.jpeg) | ![](images/240923_Kenya%20City_bing_ENG.jpeg) | ![](images/240923_Kenya%20City_bing_SWA.jpeg) |
+| ![](images/240923_Kenya_bing_ENG.jpeg) | ![](images/240927_Kenya%20City%20Future_bing_ENG.jpeg) | ![](images/240927_Kenya%20City%20Future_bing_SWA_wa%20kesho.jpeg) |
+| ![](images/240927_Kenya%20City_bing_ENG.jpeg) | ![](images/240927_Kenya%20City_bing_SWA.jpeg) | ![](images/240927_Kenya_bing_ENG.jpeg) |
+| ![](images/241004_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/241004_Kenya%20city%20future_bing_SWA_wa%20kesho.jpeg) | ![](images/241004_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/241004_Kenya%20city_bing_SWA.jpeg) | ![](images/241004_Kenya_bing_ENG.jpeg) | ![](images/241011_Kenya%20city%20future_bing_ENG.jpeg) |
+| ![](images/241011_Kenya%20city%20future_bing_SWA_siku%20zijazo.jpeg) | ![](images/241011_Kenya%20city%20future_bing_SWA_wa%20kesho.jpeg) | ![](images/241011_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/241011_Kenya%20city_bing_SWA.jpeg) | ![](images/241011_Kenya_bing_ENG.jpeg) | ![](images/241021_Kenya%20city%20future_bing_ENG.jpeg) |
+| ![](images/241021_Kenya%20city%20future_bing_SWA_wa%20kesho.jpeg) | ![](images/241021_Kenya%20city%20future_bing_SWA_wa%20siku%20zijazo.jpeg) | ![](images/241021_Kenya%20city_bing_ENG.jpeg) |
+| ![](images/241021_Kenya%20city_bing_SWA.jpeg) | ![](images/241021_Kenya_bing_ENG.jpeg) | ![](images/241025_Kenya%20city%20future_bing_ENG.jpeg) |
+| ![](images/241025_Kenya%20city%20future_bing_SWA_wa%20kesho.jpeg) | ![](images/241025_Kenya%20city%20future_bing_SWA_wa%20kesho_Screenshot.png) | ![](images/241025_Kenya%20city%20future_bing_SWA_wa%20siku%20zijazo.jpeg) |
+| ![](images/241025_Kenya%20city_bing_ENG.jpeg) | ![](images/241025_Kenya%20city_bing_SWA.jpeg) | ![](images/241025_Kenya_bing_ENG.jpeg) |
+| ![](images/241027_Kenya%20City%20Future_bing_SWA_wa%20siku%20zijazo.jpeg) | ![](images/241101_Kenya%20city%20future_bing_ENG.jpeg) | ![](images/241101_Kenya%20city%20future_bing_SWA_siku%20zijazo.jpeg) |
+| ![](images/241101_Kenya%20city%20future_bing_SWA_wa%20kesho.jpeg) | ![](images/241101_Kenya%20city_bing%20ENG.jpeg) | ![](images/241101_Kenya%20city_bing_SWA.jpeg) |
 | ![](images/241101_Kenya_bing_ENG.jpeg) | | |
 
 ## Japan
 
 | | | |
 |---|---|---|
-| ![](images/240725_Japan city future_bing_ENG.jpg) | ![](images/240725_Japan city future_bing_JPN.jpg) | ![](images/240725_Japan city_bing_ENG.jpg) |
-| ![](images/240725_Japan city_bing_JPN.jpg) | ![](images/240725_Japan_bing_ENG.jpg) | ![](images/240725_Japan_bing_JPN.jpg) |
-| ![](images/240731_Japan city future_bing_ENG.jpg) | ![](images/240731_Japan city future_bing_JPN.jpg) | ![](images/240731_Japan city_bing_ENG.jpg) |
-| ![](images/240731_Japan city_bing_JPN.jpg) | ![](images/240731_Japan_bing_ENG.jpg) | ![](images/240731_Japan_bing_JPN.jpg) |
-| ![](images/240807_Japan city future_bing_ENG.jpg) | ![](images/240807_Japan city future_bing_JPN.jpg) | ![](images/240807_Japan city_bing_ENG.jpg) |
-| ![](images/240807_Japan city_bing_JPN.jpg) | ![](images/240807_Japan_bing_ENG.jpg) | ![](images/240807_Japan_bing_JPN.jpg) |
-| ![](images/240815_Japan city future_bing_ENG.jpg) | ![](images/240815_Japan city future_bing_JPN.jpg) | ![](images/240815_Japan city_bing_ENG.jpg) |
-| ![](images/240815_Japan city_bing_JPN.jpg) | ![](images/240815_Japan_bing_ENG.jpg) | ![](images/240815_Japan_bing_JPN.jpg) |
-| ![](images/240825_Japan city future_bing_ENG.jpg) | ![](images/240825_Japan city future_bing_JPN.jpg) | ![](images/240825_Japan city_bing_ENG.jpg) |
-| ![](images/240825_Japan city_bing_JPN.jpg) | ![](images/240825_Japan_bing_ENG.jpg) | ![](images/240825_Japan_bing_JPN.jpg) |
-| ![](images/240831_Japan city future_bing_ENG.jpg) | ![](images/240831_Japan city future_bing_JPN.jpg) | ![](images/240831_Japan city_bing_ENG.jpg) |
-| ![](images/240831_Japan city_bing_JPN.jpg) | ![](images/240831_Japan_bing_ENG.jpg) | ![](images/240831_Japan_bing_JPN.jpg) |
-| ![](images/240916_Japan city future_bing_ENG.jpg) | ![](images/240916_Japan city future_bing_JPN.jpg) | ![](images/240916_Japan city_bing_ENG.jpg) |
-| ![](images/240916_Japan city_bing_JPN.jpg) | ![](images/240916_Japan_bing_ENG.jpg) | ![](images/240916_Japan_bing_JPN.jpg) |
-| ![](images/240926_Japan city future_bing_ENG.jpg) | ![](images/240926_Japan city future_bing_JPN.jpg) | ![](images/240926_Japan city_bing_ENG.jpg) |
-| ![](images/240926_Japan city_bing_JPN.jpg) | ![](images/240926_Japan_bing_ENG.jpg) | ![](images/240926_Japan_bing_JPN.jpg) |
-| ![](images/241010_Japan city future_bing_ENG.jpeg) | ![](images/241010_Japan city future_bing_JPN.jpeg) | ![](images/241010_Japan city_bing_ENG.jpeg) |
-| ![](images/241010_Japan city_bing_JPN.jpeg) | ![](images/241010_Japan_bing_ENG.jpeg) | ![](images/241010_Japan_bing_JPN.jpeg) |
-| ![](images/241017_Japan city future_bing_ENG.jpg) | ![](images/241017_Japan city future_bing_JPN.jpg) | ![](images/241017_Japan city_bing_ENG.jpg) |
-| ![](images/241017_Japan city_bing_JPN.jpg) | ![](images/241017_Japan_bing_ENG.jpg) | ![](images/241017_Japan_bing_JPN.jpg) |
-| ![](images/241023_Japan city future_bing_ENG.jpeg) | ![](images/241023_Japan city future_bing_JPN.jpeg) | ![](images/241023_Japan city_bing_ENG.jpeg) |
-| ![](images/241023_Japan city_bing_JPN.jpeg) | ![](images/241023_Japan_bing_ENG.jpeg) | ![](images/241023_Japan_bing_JPN.jpeg) |
-| ![](images/241031_Japan city future_bing_ENG.jpeg) | ![](images/241031_Japan city future_bing_JPN.jpeg) | ![](images/241031_Japan city_bing_ENG.jpeg) |
-| ![](images/241031_Japan city_bing_JPN.jpeg) | ![](images/241031_Japan_bing_ENG.jpeg) | ![](images/241031_Japan_bing_JPN.jpeg) |
+| ![](images/240725_Japan%20city%20future_bing_ENG.jpg) | ![](images/240725_Japan%20city%20future_bing_JPN.jpg) | ![](images/240725_Japan%20city_bing_ENG.jpg) |
+| ![](images/240725_Japan%20city_bing_JPN.jpg) | ![](images/240725_Japan_bing_ENG.jpg) | ![](images/240725_Japan_bing_JPN.jpg) |
+| ![](images/240731_Japan%20city%20future_bing_ENG.jpg) | ![](images/240731_Japan%20city%20future_bing_JPN.jpg) | ![](images/240731_Japan%20city_bing_ENG.jpg) |
+| ![](images/240731_Japan%20city_bing_JPN.jpg) | ![](images/240731_Japan_bing_ENG.jpg) | ![](images/240731_Japan_bing_JPN.jpg) |
+| ![](images/240807_Japan%20city%20future_bing_ENG.jpg) | ![](images/240807_Japan%20city%20future_bing_JPN.jpg) | ![](images/240807_Japan%20city_bing_ENG.jpg) |
+| ![](images/240807_Japan%20city_bing_JPN.jpg) | ![](images/240807_Japan_bing_ENG.jpg) | ![](images/240807_Japan_bing_JPN.jpg) |
+| ![](images/240815_Japan%20city%20future_bing_ENG.jpg) | ![](images/240815_Japan%20city%20future_bing_JPN.jpg) | ![](images/240815_Japan%20city_bing_ENG.jpg) |
+| ![](images/240815_Japan%20city_bing_JPN.jpg) | ![](images/240815_Japan_bing_ENG.jpg) | ![](images/240815_Japan_bing_JPN.jpg) |
+| ![](images/240825_Japan%20city%20future_bing_ENG.jpg) | ![](images/240825_Japan%20city%20future_bing_JPN.jpg) | ![](images/240825_Japan%20city_bing_ENG.jpg) |
+| ![](images/240825_Japan%20city_bing_JPN.jpg) | ![](images/240825_Japan_bing_ENG.jpg) | ![](images/240825_Japan_bing_JPN.jpg) |
+| ![](images/240831_Japan%20city%20future_bing_ENG.jpg) | ![](images/240831_Japan%20city%20future_bing_JPN.jpg) | ![](images/240831_Japan%20city_bing_ENG.jpg) |
+| ![](images/240831_Japan%20city_bing_JPN.jpg) | ![](images/240831_Japan_bing_ENG.jpg) | ![](images/240831_Japan_bing_JPN.jpg) |
+| ![](images/240916_Japan%20city%20future_bing_ENG.jpg) | ![](images/240916_Japan%20city%20future_bing_JPN.jpg) | ![](images/240916_Japan%20city_bing_ENG.jpg) |
+| ![](images/240916_Japan%20city_bing_JPN.jpg) | ![](images/240916_Japan_bing_ENG.jpg) | ![](images/240916_Japan_bing_JPN.jpg) |
+| ![](images/240926_Japan%20city%20future_bing_ENG.jpg) | ![](images/240926_Japan%20city%20future_bing_JPN.jpg) | ![](images/240926_Japan%20city_bing_ENG.jpg) |
+| ![](images/240926_Japan%20city_bing_JPN.jpg) | ![](images/240926_Japan_bing_ENG.jpg) | ![](images/240926_Japan_bing_JPN.jpg) |
+| ![](images/241010_Japan%20city%20future_bing_ENG.jpeg) | ![](images/241010_Japan%20city%20future_bing_JPN.jpeg) | ![](images/241010_Japan%20city_bing_ENG.jpeg) |
+| ![](images/241010_Japan%20city_bing_JPN.jpeg) | ![](images/241010_Japan_bing_ENG.jpeg) | ![](images/241010_Japan_bing_JPN.jpeg) |
+| ![](images/241017_Japan%20city%20future_bing_ENG.jpg) | ![](images/241017_Japan%20city%20future_bing_JPN.jpg) | ![](images/241017_Japan%20city_bing_ENG.jpg) |
+| ![](images/241017_Japan%20city_bing_JPN.jpg) | ![](images/241017_Japan_bing_ENG.jpg) | ![](images/241017_Japan_bing_JPN.jpg) |
+| ![](images/241023_Japan%20city%20future_bing_ENG.jpeg) | ![](images/241023_Japan%20city%20future_bing_JPN.jpeg) | ![](images/241023_Japan%20city_bing_ENG.jpeg) |
+| ![](images/241023_Japan%20city_bing_JPN.jpeg) | ![](images/241023_Japan_bing_ENG.jpeg) | ![](images/241023_Japan_bing_JPN.jpeg) |
+| ![](images/241031_Japan%20city%20future_bing_ENG.jpeg) | ![](images/241031_Japan%20city%20future_bing_JPN.jpeg) | ![](images/241031_Japan%20city_bing_ENG.jpeg) |
+| ![](images/241031_Japan%20city_bing_JPN.jpeg) | ![](images/241031_Japan_bing_ENG.jpeg) | ![](images/241031_Japan_bing_JPN.jpeg) |
 
 ## Zimbabwe
 
@@ -84,7 +84,7 @@ A collection of AI-generated images exploring future cityscapes and cultural the
 | ![](images/240919_Dzimbadzemabweguta_bing_SNA.jpeg) | ![](images/240919_Dzimbadzemabwegutaramangwana_bing_SNA.jpeg) | ![](images/240919_Zimbabwe_bing_eng.jpeg) |
 | ![](images/240919_Zimbabwecity_bing_eng.jpeg) | ![](images/240919_Zimbabwecityfuture_bing_eng.jpeg) | ![](images/240926_Dzimbadzemabwe_bing_SNA.jpeg) |
 | ![](images/240926_Dzimbadzemabweguta_bing_SNA.jpeg) | ![](images/240926_Dzimbadzemabwegutaramangwana_bing_SNA.jpeg) | ![](images/240926_Zimbabwe_bing_eng.jpeg) |
-| ![](images/240926_Zimbabwecity_bing_eng .jpeg) | ![](images/240926_Zimbabwecityfuture_bing_eng.jpeg) | ![](images/241003_Dzimbadzemabwe_bing_SNA.jpeg) |
+| ![](images/240926_Zimbabwecity_bing_eng%20.jpeg) | ![](images/240926_Zimbabwecityfuture_bing_eng.jpeg) | ![](images/241003_Dzimbadzemabwe_bing_SNA.jpeg) |
 | ![](images/241003_Dzimbadzemabweguta_bing_SNA.jpeg) | ![](images/241003_Dzimbadzemabwegutaramangwana_bing_SNA.jpeg) | ![](images/241003_Zimbabwe_bing_eng.jpeg) |
 | ![](images/241003_Zimbabwecity_bing_eng.jpeg) | ![](images/241003_Zimbabwecityfuture_bing_eng.jpeg) | ![](images/241010_Dzimbadzemabwe_bing_SNA.jpeg) |
 | ![](images/241010_Dzimbadzemabweguta_bing_SNA.jpeg) | ![](images/241010_Dzimbadzemabwegutaramangwana_bing_SNA.jpeg) | ![](images/241010_Zimbabwe_bing_eng.jpeg) |
@@ -102,31 +102,31 @@ A collection of AI-generated images exploring future cityscapes and cultural the
 
 | | | |
 |---|---|---|
-| ![](images/240726_Canada city future_bing_ENG.jpg) | ![](images/240726_Canada city future_bing_FRE.jpg) | ![](images/240726_Canada city_bing_ENG.jpg) |
-| ![](images/240726_Canada city_bing_FRE.jpg) | ![](images/240726_Canada_bing_ENG.jpg) | ![](images/240802_Canada city future_bing_ENG.jpg) |
-| ![](images/240802_Canada city future_bing_FRE.jpg) | ![](images/240802_Canada city_bing_ENG.jpg) | ![](images/240802_Canada city_bing_FRE.jpg) |
-| ![](images/240802_Canada_bing_ENG.jpg) | ![](images/240805_Canada city future_bing_ENG.jpg) | ![](images/240805_Canada city future_bing_FRE.jpg) |
-| ![](images/240805_Canada city_bing_ENG.jpg) | ![](images/240805_Canada city_bing_FRE.jpg) | ![](images/240805_Canada_bing_ENG.jpg) |
-| ![](images/240816_canada city future_bing_ENG.jpg) | ![](images/240816_canada city future_bing_FRE.jpg) | ![](images/240816_canada city_bing_ENG.jpg) |
-| ![](images/240816_canada city_bing_FRE.jpg) | ![](images/240816_canada_bing_ENG.jpg) | ![](images/240823_Canada city future_bing_ENG.jpeg) |
-| ![](images/240823_Canada city_bing_ENG.jpeg) | ![](images/240823_Canada city_bing_FRE.jpeg) | ![](images/240823_Canada_bing_Eng.jpeg) |
-| ![](images/240823_Canada_city future_bing_FRE.jpeg) | ![](images/240831_Canada City Future_bing_ENG.jpeg) | ![](images/240831_Canada City Future_bing_FRE.jpeg) |
-| ![](images/240831_Canada City_bing_ENG.jpeg) | ![](images/240831_Canada City_bing_FRE.jpeg) | ![](images/240831_Canada_bing_ENG.jpeg) |
-| ![](images/240906_Canada City Future_bing_ENG.jpeg) | ![](images/240906_Canada City Future_bing_FRE.jpeg) | ![](images/240906_Canada City_bing_ENG.jpeg) |
-| ![](images/240906_Canada City_bing_FRE.jpeg) | ![](images/240906_Canada_bing_ENG.jpeg) | ![](images/240913_Canada city future_bing_ENG.jpeg) |
-| ![](images/240913_Canada city future_bing_FRE.jpeg) | ![](images/240913_Canada city_bing_ENG.jpeg) | ![](images/240913_Canada city_bing_FRE.jpeg) |
-| ![](images/240913_Canada_bing_ENG.jpeg) | ![](images/240923_Canada City Future_bing_ENG.jpeg) | ![](images/240923_Canada City Future_bing_FRE.jpeg) |
-| ![](images/240923_Canada City_bing_ENG.jpeg) | ![](images/240923_Canada City_bing_FRE.jpeg) | ![](images/240923_Canada_bing_ENG.jpeg) |
-| ![](images/240927_Canada City Future_bing_ENG.jpeg) | ![](images/240927_Canada City Future_bing_FRE.jpeg) | ![](images/240927_Canada City_bing_ENG.jpeg) |
-| ![](images/240927_Canada City_bing_FRE.jpeg) | ![](images/240927_Canada_bing_ENG.jpeg) | ![](images/241004_Canada City Future_bing_ENG.jpeg) |
-| ![](images/241004_Canada City Future_bing_FRE.jpeg) | ![](images/241004_Canada City_bing_ENG.jpeg) | ![](images/241004_Canada City_bing_FRE.jpeg) |
-| ![](images/241004_Canada_bing_ENG.jpeg) | ![](images/241011_Canada city future_bing_ENG.jpeg) | ![](images/241011_Canada city future_bing_FRE.jpeg) |
-| ![](images/241011_Canada city_bing_ENG.jpeg) | ![](images/241011_Canada city_bing_FRE.jpeg) | ![](images/241011_Canada_bing_ENG.jpeg) |
-| ![](images/241021_Canada City Future_bing_ENG.jpeg) | ![](images/241021_Canada City Future_bing_FRE.jpeg) | ![](images/241021_Canada City_bing_ENG.jpeg) |
-| ![](images/241021_Canada City_bing_FRE.jpeg) | ![](images/241021_Canada_bing_Eng.jpeg) | ![](images/241025_Canada city future_bing_ENG.jpeg) |
-| ![](images/241025_Canada city future_bing_FRE.jpeg) | ![](images/241025_Canada city_bing_ENG.jpeg) | ![](images/241025_Canada city_bing_FRE.jpeg) |
-| ![](images/241025_Canada_bing_ENG.jpeg) | ![](images/241101_Canada city future_bing_ENG.jpeg) | ![](images/241101_Canada city future_bing_FRE.jpeg) |
-| ![](images/241101_Canada city_bing_ENG.jpeg) | ![](images/241101_Canada city_bing_FRE.jpeg) | ![](images/241101_Canada_bing_ENG.jpeg) |
+| ![](images/240726_Canada%20city%20future_bing_ENG.jpg) | ![](images/240726_Canada%20city%20future_bing_FRE.jpg) | ![](images/240726_Canada%20city_bing_ENG.jpg) |
+| ![](images/240726_Canada%20city_bing_FRE.jpg) | ![](images/240726_Canada_bing_ENG.jpg) | ![](images/240802_Canada%20city%20future_bing_ENG.jpg) |
+| ![](images/240802_Canada%20city%20future_bing_FRE.jpg) | ![](images/240802_Canada%20city_bing_ENG.jpg) | ![](images/240802_Canada%20city_bing_FRE.jpg) |
+| ![](images/240802_Canada_bing_ENG.jpg) | ![](images/240805_Canada%20city%20future_bing_ENG.jpg) | ![](images/240805_Canada%20city%20future_bing_FRE.jpg) |
+| ![](images/240805_Canada%20city_bing_ENG.jpg) | ![](images/240805_Canada%20city_bing_FRE.jpg) | ![](images/240805_Canada_bing_ENG.jpg) |
+| ![](images/240816_canada%20city%20future_bing_ENG.jpg) | ![](images/240816_canada%20city%20future_bing_FRE.jpg) | ![](images/240816_canada%20city_bing_ENG.jpg) |
+| ![](images/240816_canada%20city_bing_FRE.jpg) | ![](images/240816_canada_bing_ENG.jpg) | ![](images/240823_Canada%20city%20future_bing_ENG.jpeg) |
+| ![](images/240823_Canada%20city_bing_ENG.jpeg) | ![](images/240823_Canada%20city_bing_FRE.jpeg) | ![](images/240823_Canada_bing_Eng.jpeg) |
+| ![](images/240823_Canada_city%20future_bing_FRE.jpeg) | ![](images/240831_Canada%20City%20Future_bing_ENG.jpeg) | ![](images/240831_Canada%20City%20Future_bing_FRE.jpeg) |
+| ![](images/240831_Canada%20City_bing_ENG.jpeg) | ![](images/240831_Canada%20City_bing_FRE.jpeg) | ![](images/240831_Canada_bing_ENG.jpeg) |
+| ![](images/240906_Canada%20City%20Future_bing_ENG.jpeg) | ![](images/240906_Canada%20City%20Future_bing_FRE.jpeg) | ![](images/240906_Canada%20City_bing_ENG.jpeg) |
+| ![](images/240906_Canada%20City_bing_FRE.jpeg) | ![](images/240906_Canada_bing_ENG.jpeg) | ![](images/240913_Canada%20city%20future_bing_ENG.jpeg) |
+| ![](images/240913_Canada%20city%20future_bing_FRE.jpeg) | ![](images/240913_Canada%20city_bing_ENG.jpeg) | ![](images/240913_Canada%20city_bing_FRE.jpeg) |
+| ![](images/240913_Canada_bing_ENG.jpeg) | ![](images/240923_Canada%20City%20Future_bing_ENG.jpeg) | ![](images/240923_Canada%20City%20Future_bing_FRE.jpeg) |
+| ![](images/240923_Canada%20City_bing_ENG.jpeg) | ![](images/240923_Canada%20City_bing_FRE.jpeg) | ![](images/240923_Canada_bing_ENG.jpeg) |
+| ![](images/240927_Canada%20City%20Future_bing_ENG.jpeg) | ![](images/240927_Canada%20City%20Future_bing_FRE.jpeg) | ![](images/240927_Canada%20City_bing_ENG.jpeg) |
+| ![](images/240927_Canada%20City_bing_FRE.jpeg) | ![](images/240927_Canada_bing_ENG.jpeg) | ![](images/241004_Canada%20City%20Future_bing_ENG.jpeg) |
+| ![](images/241004_Canada%20City%20Future_bing_FRE.jpeg) | ![](images/241004_Canada%20City_bing_ENG.jpeg) | ![](images/241004_Canada%20City_bing_FRE.jpeg) |
+| ![](images/241004_Canada_bing_ENG.jpeg) | ![](images/241011_Canada%20city%20future_bing_ENG.jpeg) | ![](images/241011_Canada%20city%20future_bing_FRE.jpeg) |
+| ![](images/241011_Canada%20city_bing_ENG.jpeg) | ![](images/241011_Canada%20city_bing_FRE.jpeg) | ![](images/241011_Canada_bing_ENG.jpeg) |
+| ![](images/241021_Canada%20City%20Future_bing_ENG.jpeg) | ![](images/241021_Canada%20City%20Future_bing_FRE.jpeg) | ![](images/241021_Canada%20City_bing_ENG.jpeg) |
+| ![](images/241021_Canada%20City_bing_FRE.jpeg) | ![](images/241021_Canada_bing_Eng.jpeg) | ![](images/241025_Canada%20city%20future_bing_ENG.jpeg) |
+| ![](images/241025_Canada%20city%20future_bing_FRE.jpeg) | ![](images/241025_Canada%20city_bing_ENG.jpeg) | ![](images/241025_Canada%20city_bing_FRE.jpeg) |
+| ![](images/241025_Canada_bing_ENG.jpeg) | ![](images/241101_Canada%20city%20future_bing_ENG.jpeg) | ![](images/241101_Canada%20city%20future_bing_FRE.jpeg) |
+| ![](images/241101_Canada%20city_bing_ENG.jpeg) | ![](images/241101_Canada%20city_bing_FRE.jpeg) | ![](images/241101_Canada_bing_ENG.jpeg) |
 
 ## Sri Lanka
 
@@ -239,92 +239,92 @@ A collection of AI-generated images exploring future cityscapes and cultural the
 |---|---|---|
 | ![](images/240714_China_Bing_ENG.jpg) | ![](images/240714_China_Bing_ZHO.jpg) | ![](images/240714_Chinacity_Bing_ENG.jpg) |
 | ![](images/240714_Chinacity_Bing_ZHO.jpg) | ![](images/240714_Chinacityfuture_Bing_ENG.jpg) | ![](images/240714_Chinacityfuture_Bing_ZHO.jpg) |
-| ![](images/240717_South Africa city future_bing_ENG.jpeg) | ![](images/240717_South Africa city future_bing_ZUL.jpeg) | ![](images/240717_South Africa city_bing_ENG.jpeg) |
-| ![](images/240717_South Africa city_bing_ZUL.jpeg) | ![](images/240717_South Africa_bing_ENG.jpeg) | ![](images/240717_South Africa_bing_ZUL.jpeg) |
+| ![](images/240717_South%20Africa%20city%20future_bing_ENG.jpeg) | ![](images/240717_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240717_South%20Africa%20city_bing_ENG.jpeg) |
+| ![](images/240717_South%20Africa%20city_bing_ZUL.jpeg) | ![](images/240717_South%20Africa_bing_ENG.jpeg) | ![](images/240717_South%20Africa_bing_ZUL.jpeg) |
 | ![](images/240721_China_Bing_ENG.jpg) | ![](images/240721_China_Bing_ZHO.jpg) | ![](images/240721_Chinacity_Bing_ENG.jpg) |
 | ![](images/240721_Chinacity_Bing_ZHO.jpg) | ![](images/240721_Chinacityfuture_Bing_ENG.jpg) | ![](images/240721_Chinacityfuture_Bing_ZHO.jpg) |
 | ![](images/240728_China_Bing_ENG.jpg) | ![](images/240728_China_Bing_ZHO.jpg) | ![](images/240728_Chinacity_Bing_ENG.jpg) |
 | ![](images/240728_Chinacity_Bing_ZHO.jpg) | ![](images/240728_Chinacityfuture_Bing_ENG.jpg) | ![](images/240728_Chinacityfuture_Bing_ZHO.jpg) |
-| ![](images/240728_Korea city future_Bing_ENG.jpeg) | ![](images/240728_Korea city future_Bing_KOR.jpeg) | ![](images/240728_Korea city_Bing_ENG.jpeg) |
-| ![](images/240728_Korea city_Bing_KOR.jpeg) | ![](images/240728_Korea_Bing_ENG.jpeg) | ![](images/240728_Korea_Bing_KOR.jpeg) |
-| ![](images/240728_North Korea city future_Bing_KOR.jpeg) | ![](images/240728_South Korea city future_Bing_KOR.jpeg) | ![](images/240730-Ethiopia-Bing-AMH.jpeg) |
+| ![](images/240728_Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240728_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240728_Korea%20city_Bing_ENG.jpeg) |
+| ![](images/240728_Korea%20city_Bing_KOR.jpeg) | ![](images/240728_Korea_Bing_ENG.jpeg) | ![](images/240728_Korea_Bing_KOR.jpeg) |
+| ![](images/240728_North%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240728_South%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240730-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/240730-Ethiopia-Bing-ENG.jpeg) | ![](images/240730-Ethiopia-city-Bing-AMH.jpeg) | ![](images/240730-Ethiopia-city-Bing-ENG.jpeg) |
 | ![](images/240730-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240730-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240804_China_Bing_ENG.jpg) |
 | ![](images/240804_China_Bing_ZHO.jpg) | ![](images/240804_Chinacity_Bing_ENG.jpg) | ![](images/240804_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240804_Chinacityfuture_Bing_ENG.jpg) | ![](images/240804_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240804_Korea city future_Bing_ENG_TL.jpeg) |
-| ![](images/240804_Korea city future_Bing_KOR_TL.jpeg) | ![](images/240804_Korea city_Bing_ENG_TL.jpeg) | ![](images/240804_Korea city_Bing_KOR_TL.jpeg) |
-| ![](images/240804_Korea_Bing_ENG_TL.jpeg) | ![](images/240804_Korea_Bing_KOR_TL.jpeg) | ![](images/240804_North Korea city future_Bing_ENG.jpeg) |
-| ![](images/240804_North Korea city future_Bing_KOR.jpeg) | ![](images/240804_Republic of Korea city future_Bing_ENG.jpeg) | ![](images/240804_Republic of Korea city future_Bing_KOR.jpeg) |
-| ![](images/240804_South Korea city future_Bing_ENG.jpeg) | ![](images/240804_South Korea city future_Bing_KOR.jpeg) | ![](images/240808-Ethiopia-Bing-AMH.jpeg) |
+| ![](images/240804_Chinacityfuture_Bing_ENG.jpg) | ![](images/240804_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240804_Korea%20city%20future_Bing_ENG_TL.jpeg) |
+| ![](images/240804_Korea%20city%20future_Bing_KOR_TL.jpeg) | ![](images/240804_Korea%20city_Bing_ENG_TL.jpeg) | ![](images/240804_Korea%20city_Bing_KOR_TL.jpeg) |
+| ![](images/240804_Korea_Bing_ENG_TL.jpeg) | ![](images/240804_Korea_Bing_KOR_TL.jpeg) | ![](images/240804_North%20Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240804_North%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240804_Republic%20of%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240804_Republic%20of%20Korea%20city%20future_Bing_KOR.jpeg) |
+| ![](images/240804_South%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240804_South%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240808-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/240808-Ethiopia-Bing-ENG.jpeg) | ![](images/240808-Ethiopia-city-Bing-AMH.jpeg) | ![](images/240808-Ethiopia-city-Bing-ENG.jpeg) |
-| ![](images/240808-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240808-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240810_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240810_South Africa city future_bing_ZUL.jpeg) | ![](images/240810_South Africa city_bing_ENG.jpeg) | ![](images/240810_South Africa city_bing_ZUL.jpeg) |
-| ![](images/240810_South Africa_bing_ENG.jpeg) | ![](images/240810_South Africa_bing_ZUL.jpeg) | ![](images/240811_China_Bing_ENG.jpg) |
+| ![](images/240808-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240808-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240810_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240810_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240810_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240810_South%20Africa%20city_bing_ZUL.jpeg) |
+| ![](images/240810_South%20Africa_bing_ENG.jpeg) | ![](images/240810_South%20Africa_bing_ZUL.jpeg) | ![](images/240811_China_Bing_ENG.jpg) |
 | ![](images/240811_China_Bing_ZHO.jpg) | ![](images/240811_Chinacity_Bing_ENG.jpg) | ![](images/240811_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240811_Chinacityfuture_Bing_ENG.jpg) | ![](images/240811_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240811_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240811_Korea city future_Bing_KOR.jpeg) | ![](images/240811_Korea city_Bing_ENG.jpeg) | ![](images/240811_Korea city_Bing_KOR.jpeg) |
-| ![](images/240811_Korea_Bing_ENG.jpeg) | ![](images/240811_Korea_Bing_KOR.jpeg) | ![](images/240811_North Korea city future_Bing_ENG.jpeg) |
-| ![](images/240811_North Korea city future_Bing_KOR.jpeg) | ![](images/240811_Republic of Korea city future_Bing_ENG.jpeg) | ![](images/240811_Republic of Korea city future_Bing_KOR.jpeg) |
-| ![](images/240811_South Korea city future_Bing_ENG.jpeg) | ![](images/240811_South Korea city future_Bing_KOR.jpeg) | ![](images/240812_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240812_South Africa city future_bing_ZUL.jpeg) | ![](images/240812_South Africa city_bing_ENG.jpeg) | ![](images/240812_South Africa city_bing_ZUL.jpeg) |
-| ![](images/240812_South Africa_bing_ENG.jpeg) | ![](images/240812_South Africa_bing_ZUL.jpeg) | ![](images/240818_China_Bing_ENG.jpg) |
+| ![](images/240811_Chinacityfuture_Bing_ENG.jpg) | ![](images/240811_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240811_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240811_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240811_Korea%20city_Bing_ENG.jpeg) | ![](images/240811_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240811_Korea_Bing_ENG.jpeg) | ![](images/240811_Korea_Bing_KOR.jpeg) | ![](images/240811_North%20Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240811_North%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240811_Republic%20of%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240811_Republic%20of%20Korea%20city%20future_Bing_KOR.jpeg) |
+| ![](images/240811_South%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240811_South%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240812_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240812_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240812_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240812_South%20Africa%20city_bing_ZUL.jpeg) |
+| ![](images/240812_South%20Africa_bing_ENG.jpeg) | ![](images/240812_South%20Africa_bing_ZUL.jpeg) | ![](images/240818_China_Bing_ENG.jpg) |
 | ![](images/240818_China_Bing_ZHO.jpg) | ![](images/240818_Chinacity_Bing_ENG.jpg) | ![](images/240818_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240818_Chinacityfuture_Bing_ENG.jpg) | ![](images/240818_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240818_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240818_Korea city future_Bing_KOR.jpeg) | ![](images/240818_Korea city_Bing_ENG.jpeg) | ![](images/240818_Korea city_Bing_KOR.jpeg) |
-| ![](images/240818_Korea_Bing_ENG.jpeg) | ![](images/240818_Korea_Bing_KOR.jpeg) | ![](images/240818_North Korea city future_Bing_ENG.jpeg) |
-| ![](images/240818_North Korea city future_Bing_KOR.jpeg) | ![](images/240818_Republic of Korea city future_Bing_ENG.jpeg) | ![](images/240818_Republic of Korea city future_Bing_KOR.jpeg) |
-| ![](images/240818_South Korea city future_Bing_ENG.jpeg) | ![](images/240818_South Korea city future_Bing_KOR.jpeg) | ![](images/240820-Ethiopia-Bing-AMH.jpeg) |
+| ![](images/240818_Chinacityfuture_Bing_ENG.jpg) | ![](images/240818_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240818_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240818_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240818_Korea%20city_Bing_ENG.jpeg) | ![](images/240818_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240818_Korea_Bing_ENG.jpeg) | ![](images/240818_Korea_Bing_KOR.jpeg) | ![](images/240818_North%20Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240818_North%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240818_Republic%20of%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240818_Republic%20of%20Korea%20city%20future_Bing_KOR.jpeg) |
+| ![](images/240818_South%20Korea%20city%20future_Bing_ENG.jpeg) | ![](images/240818_South%20Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240820-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/240820-Ethiopia-Bing-ENG.jpeg) | ![](images/240820-Ethiopia-city-Bing-AMH.jpeg) | ![](images/240820-Ethiopia-city-Bing-ENG.jpeg) |
-| ![](images/240820-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240820-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240821_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240821_South Africa city future_bing_ZUL.jpeg) | ![](images/240821_South Africa city_bing_ENG.jpeg) | ![](images/240821_South Africa city_bing_ZUL.jpeg) |
-| ![](images/240821_South Africa_bing_ENG.jpeg) | ![](images/240821_South Africa_bing_ZUL.jpeg) | ![](images/240825_China_Bing_ENG.jpg) |
+| ![](images/240820-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240820-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240821_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240821_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240821_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240821_South%20Africa%20city_bing_ZUL.jpeg) |
+| ![](images/240821_South%20Africa_bing_ENG.jpeg) | ![](images/240821_South%20Africa_bing_ZUL.jpeg) | ![](images/240825_China_Bing_ENG.jpg) |
 | ![](images/240825_China_Bing_ZHO.jpg) | ![](images/240825_Chinacity_Bing_ENG.jpg) | ![](images/240825_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240825_Chinacityfuture_Bing_ENG.jpg) | ![](images/240825_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240825_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240825_Korea city future_Bing_KOR.jpeg) | ![](images/240825_Korea city_Bing_ENG.jpeg) | ![](images/240825_Korea city_Bing_KOR.jpeg) |
+| ![](images/240825_Chinacityfuture_Bing_ENG.jpg) | ![](images/240825_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240825_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240825_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240825_Korea%20city_Bing_ENG.jpeg) | ![](images/240825_Korea%20city_Bing_KOR.jpeg) |
 | ![](images/240825_Korea_Bing_ENG.jpeg) | ![](images/240825_Korea_Bing_KOR.jpeg) | ![](images/240831-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/240831-Ethiopia-Bing-ENG.jpeg) | ![](images/240831-Ethiopia-city-Bing-AMH.jpeg) | ![](images/240831-Ethiopia-city-Bing-ENG.jpeg) |
 | ![](images/240831-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240831-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240831_China_Bing_ENG.jpg) |
 | ![](images/240831_China_Bing_ZHO.jpg) | ![](images/240831_Chinacity_Bing_ENG.jpg) | ![](images/240831_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240831_Chinacityfuture_Bing_ENG.jpg) | ![](images/240831_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240901_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240901_Korea city future_Bing_KOR.jpeg) | ![](images/240901_Korea city_Bing_ENG.jpeg) | ![](images/240901_Korea city_Bing_KOR.jpeg) |
-| ![](images/240901_Korea_Bing_ENG.jpeg) | ![](images/240901_Korea_Bing_KOR.jpeg) | ![](images/240902_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240902_South Africa city future_bing_ZUL.jpeg) | ![](images/240902_South Africa city_bing_ENG.jpeg) | ![](images/240902_South Africa city_bing_ZUL.jpeg) |
-| ![](images/240902_South Africa_bing_ENG.jpeg) | ![](images/240902_South Africa_bing_ZUL.jpeg) | ![](images/240907_China_Bing_ENG.jpg) |
+| ![](images/240831_Chinacityfuture_Bing_ENG.jpg) | ![](images/240831_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240901_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240901_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240901_Korea%20city_Bing_ENG.jpeg) | ![](images/240901_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240901_Korea_Bing_ENG.jpeg) | ![](images/240901_Korea_Bing_KOR.jpeg) | ![](images/240902_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240902_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240902_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240902_South%20Africa%20city_bing_ZUL.jpeg) |
+| ![](images/240902_South%20Africa_bing_ENG.jpeg) | ![](images/240902_South%20Africa_bing_ZUL.jpeg) | ![](images/240907_China_Bing_ENG.jpg) |
 | ![](images/240907_China_Bing_ZHO.jpg.jpg) | ![](images/240907_Chinacity_Bing_ENG.jpg) | ![](images/240907_Chinacity_Bing_ZHO.jpg.jpg) |
-| ![](images/240907_Chinacityfuture_Bing_ENG.jpg) | ![](images/240907_Chinacityfuture_Bing_ZHO.jpg.jpg) | ![](images/240908_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240908_Korea city future_Bing_KOR.jpeg) | ![](images/240908_Korea city_Bing_ENG.jpeg) | ![](images/240908_Korea city_Bing_KOR.jpeg) |
-| ![](images/240908_Korea_Bing_ENG.jpeg) | ![](images/240908_Korea_Bing_KOR.jpeg) | ![](images/240909_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240909_South Africa city_bing_ENG.jpeg) | ![](images/240909_South Africa_bing_ENG.jpeg) | ![](images/240909__South Africa city future_bing_ZUL.jpeg) |
-| ![](images/240909__South Africa city_bing_ZUL.jpeg) | ![](images/240909__South Africa_bing_ZUL.jpeg) | ![](images/240910-Ethiopia-Bing-AMH.jpeg) |
+| ![](images/240907_Chinacityfuture_Bing_ENG.jpg) | ![](images/240907_Chinacityfuture_Bing_ZHO.jpg.jpg) | ![](images/240908_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240908_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240908_Korea%20city_Bing_ENG.jpeg) | ![](images/240908_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240908_Korea_Bing_ENG.jpeg) | ![](images/240908_Korea_Bing_KOR.jpeg) | ![](images/240909_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240909_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240909_South%20Africa_bing_ENG.jpeg) | ![](images/240909__South%20Africa%20city%20future_bing_ZUL.jpeg) |
+| ![](images/240909__South%20Africa%20city_bing_ZUL.jpeg) | ![](images/240909__South%20Africa_bing_ZUL.jpeg) | ![](images/240910-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/240910-Ethiopia-Bing-ENG.jpeg) | ![](images/240910-Ethiopia-city-Bing-AMH.jpeg) | ![](images/240910-Ethiopia-city-Bing-ENG.jpeg) |
 | ![](images/240910-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/240910-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/240914_China_Bing_ENG.jpg) |
 | ![](images/240914_China_Bing_ZHO.jpg) | ![](images/240914_Chinacity_Bing_ENG.jpg) | ![](images/240914_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240914_Chinacityfuture_Bing_ENG.jpg) | ![](images/240914_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240915_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240915_Korea city future_Bing_KOR.jpeg) | ![](images/240915_Korea city_Bing_ENG.jpeg) | ![](images/240915_Korea city_Bing_KOR.jpeg) |
-| ![](images/240915_Korea_Bing_ENG.jpeg) | ![](images/240915_Korea_Bing_KOR.jpeg) | ![](images/240917_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240917_South Africa city future_bing_ZUL.jpeg) | ![](images/240917_South Africa city_bing_ENG.jpeg) | ![](images/240917_South Africa_bing_ENG.jpeg) |
-| ![](images/240917__South Africa city_bing_ZUL.jpeg) | ![](images/240917__South Africa_bing_ZUL.jpeg) | ![](images/240921_China_Bing_ENG.jpg) |
+| ![](images/240914_Chinacityfuture_Bing_ENG.jpg) | ![](images/240914_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240915_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240915_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240915_Korea%20city_Bing_ENG.jpeg) | ![](images/240915_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240915_Korea_Bing_ENG.jpeg) | ![](images/240915_Korea_Bing_KOR.jpeg) | ![](images/240917_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240917_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240917_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240917_South%20Africa_bing_ENG.jpeg) |
+| ![](images/240917__South%20Africa%20city_bing_ZUL.jpeg) | ![](images/240917__South%20Africa_bing_ZUL.jpeg) | ![](images/240921_China_Bing_ENG.jpg) |
 | ![](images/240921_China_Bing_ZHO.jpg) | ![](images/240921_Chinacity_Bing_ENG.jpg) | ![](images/240921_Chinacity_Bing_ZHO.jpg) |
 | ![](images/240921_Chinacityfuture_Bing_ENG.jpg) | ![](images/240921_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240922_Hindustan_bing_HIN.jpeg..jpg) |
-| ![](images/240922_Hindustan_city_bing_HIN.jpeg.jpg) | ![](images/240922_Hindustan_city_future_bing_HIN.jpeg.jpg) | ![](images/240922_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240922_Korea city future_Bing_KOR.jpeg) | ![](images/240922_Korea city_Bing_ENG.jpeg) | ![](images/240922_Korea city_Bing_KOR.jpeg) |
-| ![](images/240922_Korea_Bing_ENG.jpeg) | ![](images/240922_Korea_Bing_KOR.jpeg) | ![](images/240923_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240923_South Africa city future_bing_ZUL.jpeg) | ![](images/240923_South Africa city_bing_ENG.jpeg) | ![](images/240923_South Africa_bing_ENG.jpeg) |
-| ![](images/240923__South Africa city_bing_ZUL.jpeg) | ![](images/240923__South Africa_bing_ZUL.jpeg) | ![](images/240928_China_Bing_ENG.jpg) |
+| ![](images/240922_Hindustan_city_bing_HIN.jpeg.jpg) | ![](images/240922_Hindustan_city_future_bing_HIN.jpeg.jpg) | ![](images/240922_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240922_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240922_Korea%20city_Bing_ENG.jpeg) | ![](images/240922_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240922_Korea_Bing_ENG.jpeg) | ![](images/240922_Korea_Bing_KOR.jpeg) | ![](images/240923_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240923_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240923_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240923_South%20Africa_bing_ENG.jpeg) |
+| ![](images/240923__South%20Africa%20city_bing_ZUL.jpeg) | ![](images/240923__South%20Africa_bing_ZUL.jpeg) | ![](images/240928_China_Bing_ENG.jpg) |
 | ![](images/240928_China_Bing_ZHO.jpg) | ![](images/240928_Chinacity_Bing_ENG.jpg) | ![](images/240928_Chinacity_Bing_ZHO.jpg) |
-| ![](images/240928_Chinacityfuture_Bing_ENG.jpg) | ![](images/240928_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240929_Korea city future_Bing_ENG.jpeg) |
-| ![](images/240929_Korea city future_Bing_KOR.jpeg) | ![](images/240929_Korea city_Bing_ENG.jpeg) | ![](images/240929_Korea city_Bing_KOR.jpeg) |
-| ![](images/240929_Korea_Bing_ENG.jpeg) | ![](images/240929_Korea_Bing_KOR.jpeg) | ![](images/240930_South Africa city future_bing_ENG.jpeg) |
-| ![](images/240930_South Africa city future_bing_ZUL.jpeg) | ![](images/240930_South Africa city_bing_ENG.jpeg) | ![](images/240930_South Africa_bing_ENG.jpeg) |
-| ![](images/240930__South Africa city_bing_ZUL.jpeg) | ![](images/240930__South Africa_bing_ZUL.jpeg) | ![](images/241005_China_Bing_ENG.jpg) |
+| ![](images/240928_Chinacityfuture_Bing_ENG.jpg) | ![](images/240928_Chinacityfuture_Bing_ZHO.jpg) | ![](images/240929_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/240929_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/240929_Korea%20city_Bing_ENG.jpeg) | ![](images/240929_Korea%20city_Bing_KOR.jpeg) |
+| ![](images/240929_Korea_Bing_ENG.jpeg) | ![](images/240929_Korea_Bing_KOR.jpeg) | ![](images/240930_South%20Africa%20city%20future_bing_ENG.jpeg) |
+| ![](images/240930_South%20Africa%20city%20future_bing_ZUL.jpeg) | ![](images/240930_South%20Africa%20city_bing_ENG.jpeg) | ![](images/240930_South%20Africa_bing_ENG.jpeg) |
+| ![](images/240930__South%20Africa%20city_bing_ZUL.jpeg) | ![](images/240930__South%20Africa_bing_ZUL.jpeg) | ![](images/241005_China_Bing_ENG.jpg) |
 | ![](images/241005_China_Bing_ZHO.jpg) | ![](images/241005_Chinacity_Bing_ENG.jpg) | ![](images/241005_Chinacity_Bing_ZHO.jpg) |
-| ![](images/241005_Chinacityfuture_Bing_ENG.jpg) | ![](images/241005_Chinacityfuture_Bing_ZHO.jpg) | ![](images/241006_Korea city future_Bing_ENG.jpeg) |
-| ![](images/241006_Korea city future_Bing_KOR.jpeg) | ![](images/241006_Korea city_Bing_ENG.jpeg) | ![](images/241006_Korea city_Bing_KOR.jpeg) |
+| ![](images/241005_Chinacityfuture_Bing_ENG.jpg) | ![](images/241005_Chinacityfuture_Bing_ZHO.jpg) | ![](images/241006_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/241006_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/241006_Korea%20city_Bing_ENG.jpeg) | ![](images/241006_Korea%20city_Bing_KOR.jpeg) |
 | ![](images/241006_Korea_Bing_ENG.jpeg) | ![](images/241006_Korea_Bing_KOR.jpeg) | ![](images/241010-Ethiopia-Bing-AMH.jpeg) |
 | ![](images/241010-Ethiopia-Bing-ENG.jpeg) | ![](images/241010-Ethiopia-city-Bing-AMH.jpeg) | ![](images/241010-Ethiopia-city-Bing-ENG.jpeg) |
 | ![](images/241010-Ethiopia-city-future-Bing-AMH.jpeg) | ![](images/241010-Ethiopia-city-future-Bing-ENG.jpeg) | ![](images/241012_China_Bing_ENG.jpg) |
 | ![](images/241012_China_Bing_ZHO.jpg) | ![](images/241012_Chinacity_Bing_ENG.jpg) | ![](images/241012_Chinacity_Bing_ZHO.jpg.jpg) |
-| ![](images/241012_Chinacityfuture_Bing_ENG.jpg.jpg) | ![](images/241012_Chinacityfuture_Bing_ZHO.jpg.jpg) | ![](images/241013_Korea city future_Bing_ENG.jpeg) |
-| ![](images/241013_Korea city future_Bing_KOR.jpeg) | ![](images/241013_Korea city_Bing_ENG.jpeg) | ![](images/241013_Korea city_Bing_KOR.jpeg) |
+| ![](images/241012_Chinacityfuture_Bing_ENG.jpg.jpg) | ![](images/241012_Chinacityfuture_Bing_ZHO.jpg.jpg) | ![](images/241013_Korea%20city%20future_Bing_ENG.jpeg) |
+| ![](images/241013_Korea%20city%20future_Bing_KOR.jpeg) | ![](images/241013_Korea%20city_Bing_ENG.jpeg) | ![](images/241013_Korea%20city_Bing_KOR.jpeg) |
 | ![](images/241013_Korea_Bing_ENG.jpeg) | ![](images/241013_Korea_Bing_KOR.jpeg) | |
 
