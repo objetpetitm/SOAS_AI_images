@@ -1,6 +1,6 @@
 # SOAS AI Image Collection
 
-A collection of AI-generated images exploring future cityscapes and cultural themes.
+A collection of AI-generated images exploring how AI models visually represent geographical diversity.present geographical diversity.
 
 ## Kenya
 
